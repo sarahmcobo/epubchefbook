@@ -35,7 +35,7 @@ chapters:
 #     starts_part: Introduction
 
   -  code: '020'
-     name: stuff
+     name: 
      intro: 
 #     starts_part: Theory
   -  code: '030'
