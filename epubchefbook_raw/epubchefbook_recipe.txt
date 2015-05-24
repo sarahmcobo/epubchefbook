@@ -23,26 +23,48 @@ front_matter: # must include "cover", "title_page", and "table_of_contents" (in 
      - name: table_of_contents
      - name: dedication
 
-#parts:
-#     - part_name: Part One
-#     - part_name: Part Two
+parts:
+  - part_name: Introduction
+  - part_name: Theory
+  - part_name: Practice
      
 chapters:
-     -  code: '010'
-        name: Why ePubchef
-        intro: This will be a great chapter.
-        #starts_part: Part One
-     -  code: '020'
-        name: The Second Chapter
-        intro: This will be a fabulous chapter.
-     -  code: '030'
-        name: The Third Chapter
-        intro: This will be a groovy chapter.
-        #starts_part: Part Two
-     -  code: '040'
-        name: The 4 Chapter
-        intro: This will be a groovy chapter.
-        #starts_part: Part Two
+  -  code: '010'
+     name: ePubChef - for creating books
+     intro: What is this all about?
+     starts_part: Introduction
+
+  -  code: '020'
+     name: 
+     intro: 
+     starts_part: Theory
+  -  code: '030'
+     name: Books live longer than software
+     intro: 
+  -  code: '040'
+     name: Being Independent
+     intro: 
+  -  code: '050'
+     name: Collaboration
+     intro: Why linier is bad
+  
+  -  code: '060'
+     name: Initiating a book
+     intro: Just a few clicks
+     starts_part: Practice
+  -  code: '070'
+     name: Writing
+     intro: the hard part
+  -  code: '080'
+     name: Editing
+     intro: the tedious part
+  -  code: '090'
+     name: Selling
+     intro: Making the mechanics easy
+  -  code: '100'
+     name: Distributing
+     intro: Getting your work to the old fashioned distrubuters
+
 
 back_matter: 
      - name: description
