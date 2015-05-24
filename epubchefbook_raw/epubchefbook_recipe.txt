@@ -29,7 +29,7 @@ front_matter: # must include "cover", "title_page", and "table_of_contents" (in 
      
 chapters:
      -  code: '010'
-        name: The First Chapter
+        name: Why ePubchef
         intro: This will be a great chapter.
         #starts_part: Part One
      -  code: '020'
@@ -37,6 +37,10 @@ chapters:
         intro: This will be a fabulous chapter.
      -  code: '030'
         name: The Third Chapter
+        intro: This will be a groovy chapter.
+        #starts_part: Part Two
+     -  code: '040'
+        name: The 4 Chapter
         intro: This will be a groovy chapter.
         #starts_part: Part Two
 
