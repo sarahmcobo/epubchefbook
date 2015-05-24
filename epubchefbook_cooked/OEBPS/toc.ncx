@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="jcobobooks.com.epub-samples.demo" name="dtb:uid" />
+    <meta content="1" name="dtb:depth" /> 
+    <meta content="0" name="dtb:totalPageCount" />
+    <meta content="0" name="dtb:maxPageNumber" />
+  </head>
+  <docTitle>
+    <text>epubchefbook</text>
+  </docTitle>
+  <docAuthor>
+    <text>Ann Author</text>
+  </docAuthor>
+  <navMap>
+   <!-- front matter -->
+   <navPoint id="ncx_cover" playOrder="1">
+      <navLabel> <text>Cover</text> </navLabel>
+      <content src="cover.xhtml" />
+   </navPoint>
+   <navPoint id="ncx_title_page" playOrder="2">
+      <navLabel> <text>Title Page</text> </navLabel>
+      <content src="content/title_page.xhtml" />
+   </navPoint>
+   <navPoint id="ncx_table_of_contents" playOrder="3">
+      <navLabel> <text>Table of Contents</text> </navLabel>
+      <content src="content/table_of_contents.xhtml" />
+   </navPoint>
+   <navPoint id="ncx_dedication" playOrder="4">
+      <navLabel> <text>Dedication</text> </navLabel>
+      <content src="dedication.xhtml" />
+   </navPoint>
+   
+   <!-- Parts and Chapters -->
+       <navPoint id="ncx_h2-1" playOrder="5">
+         <navLabel><text>Chapter 1 - ePubChef - for creating books</text></navLabel>
+         <content src="content/chap001.xhtml#h2-1" />
+       </navPoint>
+       <navPoint id="ncx_h2-2" playOrder="6">
+         <navLabel><text>Chapter 2 - stuff</text></navLabel>
+         <content src="content/chap002.xhtml#h2-2" />
+       </navPoint>
+       <navPoint id="ncx_h2-3" playOrder="7">
+         <navLabel><text>Chapter 3 - Books live longer than software</text></navLabel>
+         <content src="content/chap003.xhtml#h2-3" />
+       </navPoint>
+       <navPoint id="ncx_h2-4" playOrder="8">
+         <navLabel><text>Chapter 4 - Being Independent</text></navLabel>
+         <content src="content/chap004.xhtml#h2-4" />
+       </navPoint>
+       <navPoint id="ncx_h2-5" playOrder="9">
+         <navLabel><text>Chapter 5 - Collaboration</text></navLabel>
+         <content src="content/chap005.xhtml#h2-5" />
+       </navPoint>
+       <navPoint id="ncx_h2-6" playOrder="10">
+         <navLabel><text>Chapter 6 - Initiating a book</text></navLabel>
+         <content src="content/chap006.xhtml#h2-6" />
+       </navPoint>
+       <navPoint id="ncx_h2-7" playOrder="11">
+         <navLabel><text>Chapter 7 - Writing</text></navLabel>
+         <content src="content/chap007.xhtml#h2-7" />
+       </navPoint>
+       <navPoint id="ncx_h2-8" playOrder="12">
+         <navLabel><text>Chapter 8 - Editing</text></navLabel>
+         <content src="content/chap008.xhtml#h2-8" />
+       </navPoint>
+       <navPoint id="ncx_h2-9" playOrder="13">
+         <navLabel><text>Chapter 9 - Selling</text></navLabel>
+         <content src="content/chap009.xhtml#h2-9" />
+       </navPoint>
+       <navPoint id="ncx_h2-10" playOrder="14">
+         <navLabel><text>Chapter 10 - Distributing</text></navLabel>
+         <content src="content/chap010.xhtml#h2-10" />
+       </navPoint>
+     
+   
+   <!-- back matter -->
+   <navPoint id="ncx_description" playOrder="15">
+      <navLabel><text>Description</text></navLabel>
+      <content src="description.xhtml" />
+    </navPoint>
+   <navPoint id="ncx_about_author" playOrder="16">
+      <navLabel><text>About Author</text></navLabel>
+      <content src="about_author.xhtml" />
+    </navPoint>
+  </navMap>
+</ncx>
