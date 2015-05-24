@@ -1,0 +1,2 @@
+{code: EUL4IFN4, country: USA, date: '2015-03-16', price: $4.99, purchaser: A. Reader,
+  stats_url: 'http://jcobobooks.com/frt553tge3ss6/', transaction_id: frt553tge3ss6}

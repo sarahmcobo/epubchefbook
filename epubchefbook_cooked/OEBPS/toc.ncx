@@ -33,7 +33,7 @@
    
    <!-- Parts and Chapters -->
        <navPoint id="ncx_h2-1" playOrder="5">
-         <navLabel><text>Chapter 1 - The First Chapter</text></navLabel>
+         <navLabel><text>Chapter 1 - Why ePubchef</text></navLabel>
          <content src="content/chap001.xhtml#h2-1" />
        </navPoint>
        <navPoint id="ncx_h2-2" playOrder="6">
@@ -44,14 +44,18 @@
          <navLabel><text>Chapter 3 - The Third Chapter</text></navLabel>
          <content src="content/chap003.xhtml#h2-3" />
        </navPoint>
+       <navPoint id="ncx_h2-4" playOrder="8">
+         <navLabel><text>Chapter 4 - The 4 Chapter</text></navLabel>
+         <content src="content/chap004.xhtml#h2-4" />
+       </navPoint>
      
    
    <!-- back matter -->
-   <navPoint id="ncx_description" playOrder="8">
+   <navPoint id="ncx_description" playOrder="9">
       <navLabel><text>Description</text></navLabel>
       <content src="description.xhtml" />
     </navPoint>
-   <navPoint id="ncx_about_author" playOrder="9">
+   <navPoint id="ncx_about_author" playOrder="10">
       <navLabel><text>About Author</text></navLabel>
       <content src="about_author.xhtml" />
     </navPoint>

@@ -1,15 +1,14 @@
-****starting to cook***** at 2015-05-24 14:28:23.957821 (Ireland time)
+****starting to cook***** at 2015-05-24 14:30:40.968447 (Ireland time)
 
 cook_dir: /home/ubuntu/ePubChef_epubchefbook
-NO RECIPE FOUND AT: /home/ubuntu/ePubChef_epubchefbook/epubchefbook_raw/epubchefbook_recipe.txt
-Creating new recipe for: epubchefbook
+deleting previously generated contents of directory: /home/ubuntu/ePubChef_epubchefbook/debug
+Opening recipe for: /home/ubuntu/ePubChef_epubchefbook/epubchefbook_raw/epubchefbook_recipe.txt
+deleting previously generated contents of directory: /home/ubuntu/ePubChef_epubchefbook/epubchefbook_cooked
 Opening Point Of Sale data for: epubchefbook_raw/epubchefbook_pos_data.txt
-No Point of Sale data this time.
 front_matter count: 4
-creating new empty chapter:010
-creating new empty chapter:020
-creating new empty chapter:030
-chapter count: 3
+creating new empty chapter:040
+chapter count: 4
 ePubChef is finished, see /epubchefbook_served.
 zipping up to .epub at: /home/ubuntu/ePubChef_epubchefbook/epubchefbook_served/epubchefbook.epub
+deleting previously generated contents of directory: /home/ubuntu/ePubChef_epubchefbook/epubchefbook_served
 All done

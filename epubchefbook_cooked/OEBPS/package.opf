@@ -36,6 +36,7 @@
     <item id="chap001" href="content/chap001.xhtml"  media-type="application/xhtml+xml" />
     <item id="chap002" href="content/chap002.xhtml"  media-type="application/xhtml+xml" />
     <item id="chap003" href="content/chap003.xhtml"  media-type="application/xhtml+xml" />
+    <item id="chap004" href="content/chap004.xhtml"  media-type="application/xhtml+xml" />
 
     <item id="description"  href="description.xhtml" media-type="application/xhtml+xml" />
     <item id="about_author"  href="about_author.xhtml" media-type="application/xhtml+xml" />
@@ -53,6 +54,7 @@
     <itemref idref="chap001" linear="yes"/>
     <itemref idref="chap002" linear="yes"/>
     <itemref idref="chap003" linear="yes"/>
+    <itemref idref="chap004" linear="yes"/>
     <itemref idref="description" linear="yes"/>
     <itemref idref="about_author" linear="yes"/>
   </spine>
