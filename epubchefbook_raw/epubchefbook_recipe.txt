@@ -23,21 +23,21 @@ front_matter: # must include "cover", "title_page", and "table_of_contents" (in 
      - name: table_of_contents
      - name: dedication
 
-parts:
-  - part_name: Introduction
-  - part_name: Theory
-  - part_name: Practice
+#parts:
+#  - part_name: Introduction
+#  - part_name: Theory
+#  - part_name: Practice
      
 chapters:
   -  code: '010'
      name: ePubChef - for creating books
      intro: What is this all about?
-     starts_part: Introduction
+#     starts_part: Introduction
 
   -  code: '020'
      name: 
      intro: 
-     starts_part: Theory
+#     starts_part: Theory
   -  code: '030'
      name: Books live longer than software
      intro: 
@@ -51,7 +51,7 @@ chapters:
   -  code: '060'
      name: Initiating a book
      intro: Just a few clicks
-     starts_part: Practice
+#     starts_part: Practice
   -  code: '070'
      name: Writing
      intro: the hard part
